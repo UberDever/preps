@@ -1,3 +1,14 @@
+## git
+
+- Чтобы посмотреть изменения:
+    * `git status`
+- Чтобы стянуть:
+    * `git pull`
+- Чтобы запушить:
+    * `git add README.md`
+    * `git commit -m "Added new stuff"`
+    * `git push`
+
 
 ## Предметы
 
