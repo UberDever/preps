@@ -61,6 +61,7 @@ g## git
 - Рисунок https://art-kvartira.ru/kursy/risunok/podgotovka-v-vuz/
 - https://spb.profi.ru/ там оставил заявку на рисунок, откликаются всякие разные
 - https://aseykinaonline.ru/courses/
+- КРЕДИТ НА ОБУЧЕНИЕ https://www.sberbank.com/ru/person/credits/money/credit_na_obrazovanie
 
 ## НАДО
 
