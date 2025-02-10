@@ -63,6 +63,18 @@ g## git
 - https://aseykinaonline.ru/courses/
 - КРЕДИТ НА ОБУЧЕНИЕ https://www.sberbank.com/ru/person/credits/money/credit_na_obrazovanie
 
+## Курсы рисунок
+
+- Подготовка к поступлению у вузов:
+      1. Кино и телевидения (желаемый вуз) https://www.gikit.ru/abiturient/podgotovitelnie_kursy/  [пункт "дизайн"]
+      2. Институт Культуры https://spbgik.ru/abitur/podgotovitelnye-kursy/   [пункт "основы дизайна"]
+- Отдельные курсы:
+      1. Супер-крутой онлайн курс https://aseykinaonline.ru/course/risunok-online/
+      2. Петербургская палитра https://spb-palitra.ru/kursy/dlya-detej/podgotovitelnyie-kursyi-dlya-postupleniya-v-xudozhestvennyie-vuzy
+      3. Живопись https://aseykinaonline.ru/mini-course/zhivopis/
+
+
+
 ## НАДО
 
 - [x] Узнать (очно/телефон), можно ли использовать и старые результаты ЕГЭ (24 года) и новые сданные:
